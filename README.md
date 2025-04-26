@@ -104,20 +104,8 @@ pip install pandas numpy seaborn matplotlib scikit-learn statsmodels
   - True Negatives: 33
 - The model is saved as `modelForPrediction.pkl` for reuse.
 
-## Future Improvements
-- Experiment with other models (e.g., Random Forest, Gradient Boosting, SVM).
-- Address potential class imbalance using techniques like SMOTE.
-- Perform feature selection to reduce dimensionality and improve model performance.
-- Add cross-validation for more robust evaluation.
-- Include hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - UCI Machine Learning Repository for providing the dataset.
 - Scikit-learn and pandas documentation for implementation guidance.
 - Kaggle community for insights and discussions.
-
-## Contact
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/algerian-forest-fire-prediction/issues) or email at your-email@example.com.
